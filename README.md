@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **SanjeevLakhwani/SanjeevLakhwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Hi there 👋 !! I am Sanjeev
+- 🔭 I am a student at McGill University studying Honors Computer Science and Major Psychology
+- 🌱 I am interested in robotics, ML/AI, Social Psychology and neurology
+- 📫 Reach Me (@SanjeevLakhwani)[https://www.linkedin.com/in/sanjeevlakhwani/]
